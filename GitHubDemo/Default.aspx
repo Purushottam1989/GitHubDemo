@@ -38,6 +38,7 @@
             </p>
 
             This is a simple application
+            wow
         </div>
     </div>
 
